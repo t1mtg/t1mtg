@@ -8,7 +8,7 @@
 
 :fire: I'm currently working on: 
 
-:seedling: I'm currently learning C#, Kotlin
+:seedling: I'm currently learning Java, ML
 
 📧: Telegram: https://t.me/timotege
 
