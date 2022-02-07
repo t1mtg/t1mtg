@@ -6,8 +6,6 @@
 ![Stars](https://img.shields.io/github/stars/t1mtg)
 ![Followers](https://img.shields.io/github/followers/t1mtg)
 
-:fire: I'm currently working on: 
-
 :seedling: I'm currently learning Java, ML
 
 📧: Telegram: https://t.me/timotege
