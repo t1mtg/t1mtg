@@ -10,7 +10,7 @@
 
 :seedling: I'm currently learning C#, Kotlin
 
-📧: Telegram: https://t.me/IvanBazalii
+📧: Telegram: https://t.me/timotege
 
 ### Languages, Tools and Technologies:
 
