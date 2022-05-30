@@ -25,7 +25,6 @@
 
 <!-- Bash --><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="32"/> </a>
 
-<div display="inline-flex"  align-items="center" justify-content="space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=t1mtg&show_icons=true&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&count_private=true&locale=en" alt="t1mtg" /> 
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t1mtg&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en" alt="t1mtg" />
 </div>
