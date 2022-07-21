@@ -1,5 +1,5 @@
 # Hello there 👋 My name is Timofey
-## I'm second year university Student from Saint-Petersburg, Russia
+## I'm third year university Student from Saint-Petersburg, Russia
 
 <!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=t1mtg&color=blue&style=flat-square")
