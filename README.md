@@ -6,7 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/t1mtg)
 ![Followers](https://img.shields.io/github/followers/t1mtg)
 
-:seedling: I'm currently learning Kotlin
+
 
 📧: Telegram: https://t.me/timotege
 
